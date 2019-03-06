@@ -32,10 +32,6 @@ def draw?(board)
     return true
   else
     return false
-  #elsif !full?(board) && !won?(board)
-  #  return false
-  #else
-  #  false
   end
 end
 
